@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hugoandvercel.vercel.app/sitemap.xml
